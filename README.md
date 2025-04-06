@@ -1,8 +1,24 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Health Tracker App
 
-Currently, two official plugins are available:
+A MERN stack app to track daily health metrics like steps, calories, and water intake.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add daily health logs
+- View charts and progress
+- MongoDB and Express backend
+- User-friendly React frontend
+
+## Installation
+
+1. Run `npm install` and `npm start` inside `client`
+2. Run `npm install` and `npm start` inside `server`
+
+## Tech Stack
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
